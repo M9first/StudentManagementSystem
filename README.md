@@ -1,7 +1,11 @@
 
 ╔══════════════════════════════════════════════════════════════════════════════════╗
-║           STUDENT MANAGEMENT SYSTEM — COMPLETE POSTMAN API GUIDE               ║
-║                    SVC Engineering College - NEC                                ║
+║                                MUBARAK M                                         ║
+║                            Technical Trainer                                     ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║           STUDENT MANAGEMENT SYSTEM — COMPLETE POSTMAN API GUIDE                 ║
+║                    SVC Engineering College - NEC                                 ║
 ╚══════════════════════════════════════════════════════════════════════════════════╝
 
 BASE URL  :  http://localhost:8080
